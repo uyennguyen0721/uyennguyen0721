@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [website]: https://uyennguyen0721.github.io/DoYouLoveMe/
 [email]: mailto:uyennguyen0721@gmail.com
-[phone]: tel:0947653170
+[phone]: tel:+84947653170
 [facebook]: https://www.facebook.com/nttu.dqt/
 [github]: https://github.com/uyennguyen0721
 [instagram]: https://www.instagram.com/uyennguyen0721/
