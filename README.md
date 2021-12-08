@@ -1,4 +1,4 @@
-# Hi there, I'm Uyen Nguyen 👋
+# Hi there, I'm Uyen Nguyen 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!--
 **uyennguyen0721/uyennguyen0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
